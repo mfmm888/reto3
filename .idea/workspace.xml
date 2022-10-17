@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99d12af1-90c0-4e98-8788-0803c389bed9" name="Changes" comment="" />
+    <list default="true" id="99d12af1-90c0-4e98-8788-0803c389bed9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games2/.jpb/persistence-units.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/games2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games2/src/main/java/com/eduar/misiontic/games2/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/games2/src/main/java/com/eduar/misiontic/games2/controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games2/src/main/java/com/eduar/misiontic/games2/controller/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/games2/src/main/java/com/eduar/misiontic/games2/controller/CategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games2/src/main/java/com/eduar/misiontic/games2/controller/ClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/games2/src/main/java/com/eduar/misiontic/games2/controller/ClientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games2/src/main/java/com/eduar/misiontic/games2/controller/GameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/games2/src/main/java/com/eduar/misiontic/games2/controller/GameController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games2/src/main/java/com/eduar/misiontic/games2/controller/MessageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/games2/src/main/java/com/eduar/misiontic/games2/controller/MessageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games2/src/main/java/com/eduar/misiontic/games2/controller/ReservationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/games2/src/main/java/com/eduar/misiontic/games2/controller/ReservationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games2/src/main/java/com/eduar/misiontic/games2/entities/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/games2/src/main/java/com/eduar/misiontic/games2/entities/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games2/src/main/java/com/eduar/misiontic/games2/entities/Reservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/games2/src/main/java/com/eduar/misiontic/games2/entities/Reservation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games2/src/main/java/com/eduar/misiontic/games2/service/AdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/games2/src/main/java/com/eduar/misiontic/games2/service/AdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games2/src/main/java/com/eduar/misiontic/games2/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/games2/src/main/java/com/eduar/misiontic/games2/service/CategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games2/src/main/java/com/eduar/misiontic/games2/service/ClientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/games2/src/main/java/com/eduar/misiontic/games2/service/ClientService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games2/src/main/java/com/eduar/misiontic/games2/service/GameService.java" beforeDir="false" afterPath="$PROJECT_DIR$/games2/src/main/java/com/eduar/misiontic/games2/service/GameService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games2/src/main/java/com/eduar/misiontic/games2/service/MessageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/games2/src/main/java/com/eduar/misiontic/games2/service/MessageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games2/src/main/java/com/eduar/misiontic/games2/service/ReservationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/games2/src/main/java/com/eduar/misiontic/games2/service/ReservationService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
